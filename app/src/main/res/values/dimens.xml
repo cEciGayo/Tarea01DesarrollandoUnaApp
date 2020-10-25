@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_center">100dp</dimen>
+    <dimen name="titulo_datos">25sp</dimen>
+    <dimen name="titulo_Activity">20sp</dimen>
+    <dimen name="nombre">20sp</dimen>
+    <dimen name="telefono">20sp</dimen>
+    <dimen name="email">20sp</dimen>
+    <dimen name="fecha_nac">20sp</dimen>
+    <dimen name="Descripcion_contacto">20sp</dimen>
+    <dimen name="top">50dp</dimen>
+    <dimen name="left">10dp</dimen>
+</resources>

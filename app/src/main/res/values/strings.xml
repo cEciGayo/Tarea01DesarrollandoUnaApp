@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tarea01DesarrollandoUnaApp</string>
+    <string name="tituloconfirmardatos">Confirmar Datos</string>
+    <string name="nombre">Lorena Hernández López</string>
+    <string name="fechanacimiento">Fecha Nacimiento: 12/12/1987</string>
+    <string name="telefono">Tel: 55553333</string>
+    <string name="email">Email: lorena@gmail.com</string>
+    <string name="DesContacto">Descripción: Conocí a Lorena en el Restaurant de comida italiana</string>
+    <string name="pnombre">Nombre Completo</string>
+    <string name="ptelefono">Telefono</string>
+    <string name="pemail">Email</string>
+    <string name="pDesContacto">Descripción Contacto</string>
+    <string name="fechaNacimiento">Set Date Fecha Nacimiento</string>
+    <string name="bSiguiente">Siguiente</string>
+    <string name="bEditarDatos">Editar Datos</string>
+</resources>
